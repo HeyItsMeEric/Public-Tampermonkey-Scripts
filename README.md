@@ -12,10 +12,10 @@ These scripts also take 1-2 seconds to work their magic once the target webpage 
 ## Contents:
 
 - [Top](#Tampermonkey-scripts)
-- [Installing Scripts on Tampermonkey](##From this repository to your Tampermonkey)
+- [Installing Scripts on Tampermonkey](##From%20this%20repository%20to%20your%20Tampermonkey)
 - [Userscripts in this repository](##Userscripts)
-    * [Youtube Homepage Content Blocker](###Youtube Homepage Content Blocker)
-    * [Imgur Homepage Content Blocker](###Imgur Homepage Content Blocker)
+    * [Youtube Homepage Content Blocker](###Youtube%20Homepage%20Content%20Blocker)
+    * [Imgur Homepage Content Blocker](###Imgur%20Homepage%20Content%20Blocker)
 
 ## From this repository to your Tampermonkey
 To use any of the userscripts in this repository, simply copy the entire file and paste it into a new script in 
