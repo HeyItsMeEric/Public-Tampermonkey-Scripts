@@ -24,7 +24,7 @@ Tampermonkey:
 1.) Click on the Tampermonkey icon in the top right hand corner (may not be present; if not, click on the puzzle 
 piece to the right of this icon and select Tampermonkey from there)
 
-![img_2.png](README%20images/Using Tampermonkey 1.png)
+![img_2.png](README%20images/Using%20Tampermonkey%201.png)
 
 
 2.) Click on the "+" button to create a new script, and then paste the code from whichever userscript in this 
@@ -47,7 +47,7 @@ and before you know it you've wasted hours watching videos you didn't need to wa
 This userscript blocks the videos that show up on the homepage and also gets rid of some tabs on the left-hand side 
 of the screen. Upon loading the homepage, this is what it will look like:
 
-![img.png](README images/Youtube Content Blocker Image.png)
+![img.png](README%20images/Youtube%20Content%20Blocker%20Image.png)
 
 ***
 
@@ -55,4 +55,4 @@ of the screen. Upon loading the homepage, this is what it will look like:
 
 Similar to the Youtube Content Blocker, except for Imgur. It blocks the content on the home page:
 
-![img_4.png](README images/Imgur Content Blocker Image.png)
+![img_4.png](README%20images/Imgur%20Content%20Blocker%20Image.png)
