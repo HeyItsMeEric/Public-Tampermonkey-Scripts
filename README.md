@@ -1,6 +1,5 @@
 # Tampermonkey-scripts
-Helpful scripts for increasing productivity and ad-blocking. [Tampermonkey](<https://chrome.google.
-com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon>) is a userscript 
+Helpful scripts for increasing productivity and ad-blocking. [Tampermonkey](<https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon>) is a userscript 
 manager that has the ability to change the "layout of a page, add or remove new functionality and content, or 
 automate actions." Note that while Tampermonkey itself is not dangerous, downloading or taking code from any source 
 on the internet and pasting it into tampermonkey to use is risky. The code in this repository is pretty simple 
@@ -25,13 +24,13 @@ Tampermonkey:
 1.) Click on the Tampermonkey icon in the top right hand corner (may not be present; if not, click on the puzzle 
 piece to the right of this icon and select Tampermonkey from there)
 
-![img_2.png](README images/Using Tampermonkey 1.png)
+![img_2.png](README%20images/Using Tampermonkey 1.png)
 
 
 2.) Click on the "+" button to create a new script, and then paste the code from whichever userscript in this 
 repository you'd like.
 
-![img_3.png](README images/Using Tampermonkey 2.png)
+![img_3.png](README%20images/Using%20Tampermonkey%202.png)
 
 
 
