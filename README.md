@@ -9,6 +9,15 @@ Use this Chrome extension at your own risk.
 
 These scripts also take 1-2 seconds to work their magic once the target webpage has loaded.
 
+
+## Contents:
+
+- [Top](#Tampermonkey-scripts)
+- [Installing Scripts on Tampermonkey](##From this repository to your Tampermonkey)
+- [Userscripts in this repository](##Userscripts)
+    * [Youtube Homepage Content Blocker](###Youtube Homepage Content Blocker)
+    * [Imgur Homepage Content Blocker](###Imgur Homepage Content Blocker)
+
 ## From this repository to your Tampermonkey
 To use any of the userscripts in this repository, simply copy the entire file and paste it into a new script in 
 Tampermonkey:
@@ -16,19 +25,20 @@ Tampermonkey:
 1.) Click on the Tampermonkey icon in the top right hand corner (may not be present; if not, click on the puzzle 
 piece to the right of this icon and select Tampermonkey from there)
 
-![img_2.png](img_2.png)
+![img_2.png](README images/Using Tampermonkey 1.png)
 
 
 2.) Click on the "+" button to create a new script, and then paste the code from whichever userscript in this 
 repository you'd like.
 
-![img_3.png](img_3.png)
+![img_3.png](README images/Using Tampermonkey 2.png)
 
 
 
 ***
 ***
 
+## Userscripts
 
 ### Youtube Homepage Content Blocker
 Youtube is a very useful site for learning and taking it back a notch. When you load up youtube.com, you are met 
@@ -38,7 +48,7 @@ and before you know it you've wasted hours watching videos you didn't need to wa
 This userscript blocks the videos that show up on the homepage and also gets rid of some tabs on the left-hand side 
 of the screen. Upon loading the homepage, this is what it will look like:
 
-![img.png](img.png)
+![img.png](README images/Youtube Content Blocker Image.png)
 
 ***
 
@@ -46,4 +56,4 @@ of the screen. Upon loading the homepage, this is what it will look like:
 
 Similar to the Youtube Content Blocker, except for Imgur. It blocks the content on the home page:
 
-![img_4.png](img_4.png)
+![img_4.png](README images/Imgur Content Blocker Image.png)
