@@ -19,7 +19,7 @@
         //Getting rid of all video images and links on the homepage. See what we're modifying here:
         //https://imgur.com/8A6PNHY. This returns an      HTMLCollectionOF<Element>
         //the Element generic is determined by the function call, we don't have to worry
-        const contentHTMLElements = document.getElementsByClassName('style-scope ytd-rich-grid-renderer'); //
+        const contentHTMLElements = document.getElementsByClassName('style-scope ytd-two-column-browse-results-renderer'); //
 
         //For each element in the collection
         for (let i = 0; i < contentHTMLElements.length; i++) {
